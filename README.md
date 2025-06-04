@@ -1,9 +1,8 @@
-# genealogy
-A sample NodeJS project to illustrate the use of Mongoose to model MongoDB data
-
-It uses Mocha (`npm install -g mocha`), but to showcase the use of the Mongoose Model, not to test the Schema.
-
+## To run the Hello World demo:
+```sh
+flutter run
 ```
-$ npm install
-$ npm run test
+## To run the Hello World demo showing Arabic:
+```sh
+flutter run lib/arabic.dart
 ```
